@@ -11,7 +11,7 @@ This Expense Tracker API is a robust ASP.NET Core application that allows users 
 - MySQL database integration
 
 ## Technologies Used
-- ASP.NET Core 6.0
+- ASP.NET Core 7.0
 - Entity Framework Core
 - MySQL
 - JWT for authentication
