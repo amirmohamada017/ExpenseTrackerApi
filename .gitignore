@@ -1,0 +1,37 @@
+﻿# .NET specific
+bin/
+obj/
+out/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.dcu
+*.ncb
+*.aps
+*.cache
+*.log
+
+# ASP.NET specific
+wwwroot/
+*.rpt
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# NuGet packages
+*.nupkg
+
+appsettings.json
